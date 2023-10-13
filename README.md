@@ -1,5 +1,5 @@
-# ntp preview
-ntp Example for VisualFBEditor
+# ntp_client preview
+ntp_client Example for VisualFBEditor
 
 Network Time Protocol
 
