@@ -1,4 +1,4 @@
-# ntp_client preview
+# NtpClient preview
 NtpClient Example for VisualFBEditor
 
 Network Time Protocol Client
