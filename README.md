@@ -1,7 +1,7 @@
 # ntp_client preview
-ntp_client Example for VisualFBEditor
+NtpClient Example for VisualFBEditor
 
-Network Time Protocol
+Network Time Protocol Client
 
 Still under construction
 
