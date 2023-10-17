@@ -3,9 +3,15 @@ NtpClient Example for VisualFBEditor
 
 Network Time Protocol Client
 
-Still under construction
+![image](https://github.com/chunmingwang/NtpClient/assets/35757455/6a00c633-ecfb-4972-974a-8393f85605ab)
 
-![image](https://github.com/chunmingwang/NtpClient/assets/35757455/3a0bf65b-e0b3-48af-baf5-6db1bfd8a0fc)
+Timezone, Still under construction
+
+![image](https://github.com/chunmingwang/NtpClient/assets/35757455/7227f720-64de-493b-b375-d75619fb3fff)
+
+Call system Date and Time
+
+![image](https://github.com/chunmingwang/NtpClient/assets/35757455/616fdaa0-0fa6-4de9-b442-9e635fb48e22)
 
 If using NTP server time to calibrate local time, the project needs to use the run as administrator option
 
