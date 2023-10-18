@@ -5,9 +5,9 @@ Network Time Protocol Client
 
 ![image](https://github.com/chunmingwang/NtpClient/assets/35757455/6a00c633-ecfb-4972-974a-8393f85605ab)
 
-Timezone, Still under construction
+Timezone
 
-![image](https://github.com/chunmingwang/NtpClient/assets/35757455/7227f720-64de-493b-b375-d75619fb3fff)
+![image](https://github.com/chunmingwang/NtpClient/assets/35757455/b6a0b7fc-651f-4409-9127-a91049711fc1)
 
 Call system Date and Time
 
