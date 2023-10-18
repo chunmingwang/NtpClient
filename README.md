@@ -3,7 +3,7 @@ NtpClient Example for VisualFBEditor
 
 Network Time Protocol Client
 
-![image](https://github.com/chunmingwang/NtpClient/assets/35757455/6a00c633-ecfb-4972-974a-8393f85605ab)
+![image](https://github.com/chunmingwang/NtpClient/assets/35757455/9fbd7a1d-8275-433c-b54e-808752936c25)
 
 Timezone
 
